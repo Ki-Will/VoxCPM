@@ -1,6 +1,11 @@
 launch.json
+.venv/
 __pycache__
 voxcpm.egg-info
 .DS_Store
 ./pretrained_models/
 app_local.py
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
